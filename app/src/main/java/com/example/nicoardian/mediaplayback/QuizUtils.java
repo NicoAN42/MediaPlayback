@@ -63,8 +63,7 @@ class QuizUtils {
     static int getHighScore(Context context){
         SharedPreferences mPreferences = context.getSharedPreferences(
                 context.getString(R.string.preference_file_key), Context.MODE_PRIVATE);
-        return mPreferences.getInt(HIGH_SCORE_KEY, 0);
-    }
+        return mPreferences.getInt(HIGH_SCORE_KEY, 0); }
 
     /**
      * Helper method for setting the user's high score.
@@ -121,8 +120,7 @@ class QuizUtils {
      * @return true if the user is correct, false otherwise.
      */
     static boolean userCorrect(int correctAnswer, int userAnswer){
-        return userAnswer == correctAnswer;
-    }
+        return userAnswer == correctAnswer;  }
 
 
     /**
