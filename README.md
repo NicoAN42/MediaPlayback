@@ -1,7 +1,9 @@
-# MediaPlayback## Identitass
+# MediaPlayback
+
+## Identitass
 + Nama          : Nico Ardian Nugroho
-- Kelas         : XI RPL 2
-+ Absen         : 19
+- Kelas         : XII RPL 5
++ Absen         : 23
 - NISN          : 0003535516
 + Sekolah       : SMK TELKOM MALANG
 
