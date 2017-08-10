@@ -1,79 +1,79 @@
 [
   {
-    "name": "Toccata and Fugue in D minor",
+    "name": "Surat Cinta Untuk Starla",
     "id": 0,
     "uri": "asset:///toccata_fugue.mp3",
-    "composer": "Johann Sebastian Bach",
+    "composer": "Virgoun",
     "albumArtID": "bach"
   },
   {
-    "name": "Fur Elise",
+    "name": "Dengarlah Sayang",
     "id": 1,
     "uri": "asset:///fur_elise.mp3",
-    "composer": "Ludwig van Beethoven",
+    "composer": "D'Masiv",
     "albumArtID": "beethoven"
   },
   {
-    "name": "Rondo Alla Turca",
+    "name": "Cerita Kita",
     "id": 2,
     "uri": "asset:///rondo_alla_turca.mp3",
-    "composer": "Wolfgang Amadeus Mozart",
+    "composer": "Salshabilla",
     "albumArtID": "mozart"
   },
   {
-    "name": "Nocturne Op. 9 No. 2",
+    "name": "Zona Nyaman",
     "id": 3,
     "uri": "asset:///nocturne_9_2.mp3",
-    "composer": "Frédéric Chopin",
+    "composer": "4.20 Zona",
     "albumArtID": "chopin"
   },
   {
-    "name": "Four Seasons, Spring",
+    "name": "Cinta Terbaik",
     "id": 4,
     "uri": "asset:///four_seasons_spring.mp3",
-    "composer": "Antonio Vivaldi",
+    "composer": "Cassandra",
     "albumArtID": "vivaldi"
   },
   {
-    "name": "Canon and Gigue in D",
+    "name": "Akad",
     "id": 5,
     "uri": "asset:///canon_in_d.mp3",
-    "composer": "Johann Pachelbel",
+    "composer": "Payung Teduh",
     "albumArtID": "pachelbel"
   },
   {
-    "name": "Suite Bergamasque, 3rd Movement",
+    "name": "Fana Merah Jambu",
     "id": 6,
     "uri": "asset:///clair_de_lune.mp3",
-    "composer": "Claude Debussy",
+    "composer": "4.20 Fana",
     "albumArtID": "debussy"
   },
   {
-    "name": "Hungarian Dance No. 5",
+    "name": "Despacito Dek Lastri",
     "id": 7,
     "uri": "asset:///hungarian_dance.mp3",
-    "composer": "Johannes Brahms",
+    "composer": "Alif Rizky",
     "albumArtID": "brahms"
   },
   {
-    "name": "Ride of the Valkyries",
+    "name": "Sajadah Panjang",
     "id": 8,
     "uri": "asset:///ride_of_the_valkyries.mp3",
-    "composer": "Richard Wagner",
+    "composer": "Noah",
     "albumArtID": "wagner"
   },
   {
-    "name": "Swan Lake Op. 20, Act II",
+    "name": "Kemarin",
     "id": 9,
     "uri": "asset:///swan_lake.mp3",
-    "composer": "Pyotr Ilyich Tchaikovsky",
+    "composer": "Seventeen",
     "albumArtID": "tchaikovsky"
   },
   {
-    "name": "String Quarter No. 14",
+    "name": "Sementara Sendiri",
     "id": 10,
     "uri": "asset:///string_quartet_14.mp3",
-    "composer": "Franz Schubert",
+    "composer": "Geisha",
     "albumArtID": "schubert"
   }
 ]
